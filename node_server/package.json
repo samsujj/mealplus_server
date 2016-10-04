@@ -1,0 +1,28 @@
+{
+  "name": "Url-Manager",
+  "version": "0.0.2",
+  "description": "Simple node application.",
+  "main": "server.js",
+  "author": "Debasis",
+  "repository"   : {
+    "type" : "git",
+    "url"  : "https://github.com/scotch-io/node-web-scraper"
+  },
+  "dependencies": {
+    "authorize-net": "1.0.6",
+    "body-parser": "~1.15.0",
+    "crypto": "0.0.3",
+    "express": "4.13.3",
+    "extend": "3.0.0",
+    "mongodb": "2.1.0",
+    "fs": "0.0.2",
+    "method-override": "2.3.5",
+    "multer": "1.1.0",
+    "mysql": "2.10.1",
+    "nodemailer": "0.7.1",
+    "node-horseman": "^3.0.1",
+    "request": "latest",
+    "cheerio": "latest"
+
+  }
+}
